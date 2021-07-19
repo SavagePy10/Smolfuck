@@ -1,3 +1,4 @@
+import getch
 a="".join(open(input(), "r").readlines())
 b=-1
 c=0
